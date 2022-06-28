@@ -1,26 +1,26 @@
 {
-  "store_id": 51288,
-  "name": "lojadssports",
   "domain": "lojadssports.netlify.app",
-  "short_name": "lojadssports",
-  "description": "lojadssports",
+  "currency_symbol": "$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "niche-game"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/lojadssports",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "DS Sports - Artigos Esportivos",
+  "short_name": "lojadssports",
   "lang": "en_us",
   "currency": "USD",
-  "currency_symbol": "$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/lojadssports",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 51288,
+  "description": "lojadssports",
+  "large_icon": "/img/large-icon.png"
 }
