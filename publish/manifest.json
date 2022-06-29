@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f2de3621c4409cbb88758794698ca62e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.c7dcaac72fe198989f6be720a88b3cd2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.085a10cf675886b873ccd99f08094373.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.21430ddddffa560492bdf45d117cb154.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a90732f1dc9f80fec71fc46ffe79acef.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "DS Sports - Artigos Esportivos",
+  "short_name": "DS Sports - Artigos Esportivos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lojadssports",
+  "background_color": "#ffffff",
+  "theme_color": "#00438c"
+}
