@@ -1,6 +1,5 @@
 {
   "domain": "lojadssports.netlify.app",
-  "currency_symbol": "$",
   "primary_color": "#00438c",
   "theme": {
     "bootswatch": "_",
@@ -11,8 +10,9 @@
   "logo": "/img/uploads/1.png",
   "name": "DS Sports - Artigos Esportivos",
   "short_name": "DS Sports - Artigos Esportivos",
-  "lang": "en_us",
-  "currency": "USD",
+  "lang": "pt_br",
+  "currency": "BRL",
+  "currency_symbol": "R$",
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/4.png",
